@@ -7,6 +7,6 @@ Workflow for Wearables: Study design,data processing, and analytic consideration
 </h4>
 
 ## Instructor Information
- Laura K Kaizer [laura.kaizer@cuanschutz.edu]
- Sarah Schmiege
- Heather Smyth
+ Laura K Kaizer, MPH laura.kaizer@cuanschutz.edu </br>
+ Sarah Schmiege, PhD sarah.schmiege@cuanschutz.edu </br>
+ Heather Smyth, PhD  heather.smyth@cuanschutz.edu </br>
