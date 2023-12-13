@@ -6,4 +6,6 @@
 Workflow for Wearables: Study design,data processing, and analytic considerations for research usingcontinuous health monitoring devices
 </h4>
 
-### Laura Kaizer
+##### Laura K Kaizer
+##### Sarah Schmiege
+##### Heather Smyth
