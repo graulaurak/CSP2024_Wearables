@@ -2,7 +2,7 @@
 <h3 align="center">
   Welcome to CSP 2024!
 </h3>
-<h4 align="center">
-We are Laura Kaizer, Sarah Schmiege, and Heather Smyth from the Center for Innovative Design and Analysis at the University of Colorado - Anschutz Medical Campus
+<h4 align="left">
+Workflow for Wearables: Study design,data processing, and analyticconsiderations for research usingcontinuous health monitoring devices
 </h4>
 
