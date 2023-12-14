@@ -5,7 +5,12 @@
 <h4 align="Center">
 Workflow for Wearables: Study design,data processing, and analytic considerations for research using continuous health monitoring devices
 </h4>
+
 ## Part 3. Understand complex data processing needs unique to wearable technonology data
+<ol>
+<li> How to read in large amounts of data </li>
+<li> Considerations for valid data </li>
+</br></br>
 
 ## Instructor Information
  Laura K Kaizer, MPH laura.kaizer@cuanschutz.edu </br>
