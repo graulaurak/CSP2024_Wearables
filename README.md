@@ -25,3 +25,5 @@ Anschutz Medical Campus
 <li> Understand complex data processing needs unique to wearable technology data</li>
 <li> Identify appropriate data visualization and summarization strategies</li>
 <li> Recognize appropriate longitudinal analysis techniques and their interpretation</li>
+
+
